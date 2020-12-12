@@ -1,2 +1,2 @@
 # Chrome-Extensions
-A basic chrome extension
+A basic hello world chrome extension
